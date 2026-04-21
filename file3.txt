@@ -1,1 +1,4 @@
+
  this is a f3 file in hotfix
+=======
+ this is a third file from master branch
